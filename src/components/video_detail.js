@@ -1,4 +1,4 @@
-// video_detail.js
+l// video_detail.js
 import React from 'react';
 
 // {video} is the same as props.video
@@ -17,7 +17,7 @@ const VideoDetail = ({video}) => {
 
 
 	return (
-		<div className="video-detail col-md-">
+		<div className="video-detail col-md-8">
 			<div className="embed-responsive embed-responsive-16by9">
 				<iframe className="embed-responsive-item" src={url}></iframe>
 			</div>
