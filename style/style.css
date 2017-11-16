@@ -1,6 +1,7 @@
 .search-bar {
 	margin: 20px;
 	text-align: center;
+	padding-top: 20px;
 }
 
 .search-bar input {
@@ -23,5 +24,13 @@
 }
 
 .list-group-item:hover {
-	background-color: #eee;
+	background-color: #ACE0F4;
+}
+
+.container {
+	background-color: #F1EFEE;
+}
+
+.list-group {
+	padding-bottom: 20px;
 }
