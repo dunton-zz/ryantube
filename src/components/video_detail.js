@@ -1,4 +1,4 @@
-l// video_detail.js
+// video_detail.js
 import React from 'react';
 
 // {video} is the same as props.video
